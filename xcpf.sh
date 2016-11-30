@@ -14,6 +14,10 @@
 # Armazena o valor da entrada padrão
 CPF=$(cat /dev/stdin)
 
+# Insere sinal negativo invalidando o cpf que conter
+# todos os dígitos '0'.
+CPF=${CPF/000.000.000-00/-$CPF}
+
 # Verifica se o cpf informado se enquandra no formato estabelecido.
 # Formato: xxx.xxx.xxx-xx
 if ! echo $CPF | egrep -q '^([0-9]{3}[.]){2}([0-9]{3}[-])[0-9]{2}$'; then
