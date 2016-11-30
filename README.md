@@ -2,7 +2,7 @@
 
 ## [xsenha_complexa.sh](https://github.com/shellscriptx/X/blob/master/xsenha_complexa.sh)
 ### Script que verifica os requisitos de complexidade de senha.
-![xcomplex](https://4.bp.blogspot.com/-bCSoYHRTsaI/WD4Nbm9quZI/AAAAAAAAIC8/_Up90k5KlH4kiUgvDY54JO9kg2zD29jDACLcB/s1600/complex.png)
+![xcomplex](https://3.bp.blogspot.com/-khGZNFV-gXc/WD7UeP4lhwI/AAAAAAAAIDc/ajJD72Yel5AvfperJFCTesxTa3DvqLqUACLcB/s1600/xsenha_complexa.png)
 
 ## [xcpf.sh](https://github.com/shellscriptx/X/blob/master/xcpf.sh)
 ### Script para validação do CPF.
