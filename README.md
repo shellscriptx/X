@@ -8,3 +8,6 @@
 ### Script para validação do CPF.
 ![xcpf.sh](https://4.bp.blogspot.com/-zGSq2chLeyA/WD7YLQM0KFI/AAAAAAAAIDo/rw-IUMU1yaoopGn97GJ4G6-VhoVbxXi4wCLcB/s1600/xcpf.png)
 
+## [xswapcase.sh](https://github.com/shellscriptx/X/blob/master/xswapcase.sh)
+### Script inverte a formatação em uma cadeia de caracteres.
+![xswapcase.sh](https://4.bp.blogspot.com/-IGOpbbYz5V0/WD7d24Re8_I/AAAAAAAAID8/50Ne3KxaSvcMiIf6R1CP5lm5HzyabbarwCLcB/s1600/xswapcase.png)
