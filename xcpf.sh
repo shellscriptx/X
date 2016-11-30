@@ -56,13 +56,13 @@ VAL=$(((${NUM[0]}*11)+(${NUM[1]}*10)+(${NUM[2]}*9)+ \
 	
 # Se o 1º dígito verificador for igual ao 10ª Dígito do CPF e
 # se o 2º dígito verificador for igual ao 11º dígito do CPF
-# Finaliza a função.
+# Finaliza script.
 # Código: 0
 # Descrição: CPF Válido.
 [ ${DV[1]} -eq ${NUM[9]} -a ${DV[2]} -eq ${NUM[10]} ] && exit 0
 
 # Caso contrário.
-# Finaliza a função.
+# Finaliza script.
 # Código: 1
 # Descrição: CPF inválido.
 exit 1
