@@ -35,8 +35,4 @@ else
 	# Finaliza script com status: 1
 	exit $RETVAL
 fi
-
-exit 0
 # FIM
-
-
