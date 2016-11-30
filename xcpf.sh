@@ -54,8 +54,8 @@ VAL=$(((${NUM[0]}*11)+(${NUM[1]}*10)+(${NUM[2]}*9)+ \
 # Obtem o 2º dígito verificador 
 [ $(($VAL%11)) -lt 2 ] && DV[2]=0 || DV[2]=$((11-($VAL%11)))
 	
-# Se o 1º dígito verificador for igual ao 10ª Dígito do CPF e
-# se o 2º dígito verificador for igual ao 11º dígito do CPF
+# Se o 1º dígito verificador for igual ao 8ª Dígito do CPF e
+# se o 2º dígito verificador for igual ao 9º dígito do CPF
 # Finaliza script.
 # Código: 0
 # Descrição: CPF Válido.
