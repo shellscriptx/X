@@ -3,7 +3,7 @@
 #---------------------------------------------------------------
 # Data:         29 de Novembro de 2016
 # Criado por:   Juliano Santos [SHAMAN]
-# Script:       senha.sh (checar_complex)
+# Script:       xsenha_complexa.sh
 # Descrição:    Verifica os requisitos de complexidade de senha
 # Página:       http://www.shellscriptx.com.br
 #---------------------------------------------------------------
