@@ -25,7 +25,7 @@ if ! echo $CPF | egrep -q '^([0-9]{3}[.]){2}([0-9]{3}[-])[0-9]{2}$'; then
 	# Finaliza função.
 	# Código: 2
 	# Descrição: Formato inválido.
-	return 2
+	exit 2
 fi
 	
 # Remove os caracteres '.' e '-'; insere um espaçamento entre os dígitos e 
