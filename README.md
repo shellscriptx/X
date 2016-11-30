@@ -1,6 +1,5 @@
 # [X] (http://www.shellscriptx.com.br)
 
-## xsenha_complexa.sh
 ## [xsenha_complexa.sh](https://github.com/shellscriptx/X/blob/master/xsenha_complexa.sh)
 ### Script que verifica os requisitos de complexidade de senha.
 
