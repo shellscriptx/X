@@ -13,5 +13,5 @@
 ![xswapcase.sh](https://4.bp.blogspot.com/-IGOpbbYz5V0/WD7d24Re8_I/AAAAAAAAID8/50Ne3KxaSvcMiIf6R1CP5lm5HzyabbarwCLcB/s1600/xswapcase.png)
 
 ## [xconta_arquivo.sh](https://github.com/shellscriptx/X/blob/master/xconta_arquivo.sh)
-### Conta o total de arquivos por extenso.
+### Conta o total de arquivos por extensão.
 ![xconta_arquivo.sh](https://4.bp.blogspot.com/-1WYOJc3xyKQ/WD8AY6PQAbI/AAAAAAAAIEc/c6sbRQuTIvImUani1oQBZwwWxcl9noihwCEw/s1600/xconta_arquivo.png)
