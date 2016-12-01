@@ -5,7 +5,7 @@
 # Criado por:  Juliano Santos [SHAMAN]
 # Script:      xupperfile.sh
 # Descrição:   Renomeia arquivos de um diretório,
-#			   convertendo nome para maiúsculo.
+#              convertendo nome para maiúsculo.
 # Página:      http://www.shellscriptx.blogspot.com.br
 # Github:      https://github.com/shellscriptx
 #-----------------------------------------------------
