@@ -15,3 +15,5 @@
 ## [xconta_arquivo.sh](https://github.com/shellscriptx/X/blob/master/xconta_arquivo.sh)
 ### Conta o total de arquivos por extensão.
 ![xconta_arquivo.sh](https://4.bp.blogspot.com/-1WYOJc3xyKQ/WD8AY6PQAbI/AAAAAAAAIEc/c6sbRQuTIvImUani1oQBZwwWxcl9noihwCEw/s1600/xconta_arquivo.png)
+
+https://4.bp.blogspot.com/-R3ATHVnO9rM/WD-TGEFQglI/AAAAAAAAIEs/zBOnWX0x9BMSuhhBFAljFO9WGAnbqy3bwCLcB/s1600/chostname.png
