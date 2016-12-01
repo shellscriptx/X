@@ -27,3 +27,7 @@
 ## [xupperfile.sh](https://github.com/shellscriptx/X/blob/master/xupperfile.sh)
 ### Renomeia os arquivos, convertendo nomes para maiúsculo.
 ![xupperfile.sh](https://1.bp.blogspot.com/-lyXGrcThdsI/WD-hnzrwasI/AAAAAAAAIFg/ZNcG6r9PmpAAWDe2k_x7g22SOfKW99uAQCLcB/s1600/xupperfile.png)
+
+## [xcolors.sh](https://github.com/shellscriptx/X/blob/master/xcolors.sh)
+### Imprime tabela contendo todas as cores e efeitos possíveis.
+![xcolors.sh](https://4.bp.blogspot.com/-V0PTan0-UI4/WEA9NVO7ftI/AAAAAAAAIF4/hKj3pyKGR00jTKo6TkBb77-Av2ArQZrdQCLcB/s1600/xcolors.png)
