@@ -21,4 +21,9 @@
 ![xchostname.sh](https://1.bp.blogspot.com/-4UTSmODFdJM/WD-VJ-5mjVI/AAAAAAAAIE4/eBHnbiymexU7FFuqyy2YJCC9tSGCb1q8wCLcB/s1600/xchostname.png)
 
 ## [xgetethinfo.sh](https://github.com/shellscriptx/X/blob/master/xgetethinfo.sh)
+### Obtem informaçes da interface de rede.
 ![xgetethinfo.sh](https://3.bp.blogspot.com/-qIhB3dZiId4/WD-a79g_gfI/AAAAAAAAIFI/VcyoVavcoLMtjcN7DQcZAB5AN8Zj-4GvACLcB/s1600/xgetethinfo.png)
+
+## [xupperfile.sh](https://github.com/shellscriptx/X/blob/master/xupperfile.sh)
+### Renomeia os arquivos, convertendo nomes para maiúsculo.
+![xupperfile.sh](https://1.bp.blogspot.com/-lyXGrcThdsI/WD-hnzrwasI/AAAAAAAAIFg/ZNcG6r9PmpAAWDe2k_x7g22SOfKW99uAQCLcB/s1600/xupperfile.png)
