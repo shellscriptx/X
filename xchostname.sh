@@ -3,7 +3,7 @@
 #-----------------------------------------------------
 # Data:       12 de Novembro de 2016
 # Criado por: Juliano Santos [SHAMAN]
-# Script:     chostname.sh
+# Script:     xchostname.sh
 # Descrição:  Altera o nome da máquina
 # Página:     http://www.shellscriptx.blogspot.com.br
 # Github:     https://github.com/shellscriptx
