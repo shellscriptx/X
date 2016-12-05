@@ -33,5 +33,5 @@
 ![xcolors.sh](https://4.bp.blogspot.com/-V0PTan0-UI4/WEA9NVO7ftI/AAAAAAAAIF4/hKj3pyKGR00jTKo6TkBb77-Av2ArQZrdQCLcB/s1600/xcolors.png)
 
 ## [xrenumerar.sh](https://github.com/shellscriptx/X/blob/master/xcolors.sh)
-### Remove itens e renumerar os itens restantes.
+### Remove itens e renumera os itens restantes.
 ![xrenumerar.sh](https://1.bp.blogspot.com/-Z_KE2ZbStow/WEWnprlkkVI/AAAAAAAAIIQ/Aye_wZdgZ-oOYRaVo7e5tPLzu65vzYgJACLcB/s1600/xrenumerar.png)
