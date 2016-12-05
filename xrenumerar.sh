@@ -28,10 +28,10 @@ do
 	COD=$(printf '%04d' $NUM)
 
 	# Substitui o código do final da linha pelo novo.
-	echo $LINHA | sed -r "s/[0-9]+$/$COD/"
+	echo $LINHA | sed -r "s/\b[0-9]+$/$COD/"
 	
 	# Descomente se o código for no inicio da linha
-	# echo $LINHA | sed -r "s/^[0-9]+/$COD/"
+	# echo $LINHA | sed -r "s/^[0-9]+\b/$COD/"
 	
 
 # Lê o arquivo ignorando as linhas que contém a palavra windows.
