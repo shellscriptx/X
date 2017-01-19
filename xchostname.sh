@@ -6,6 +6,7 @@
 # Script:     xchostname.sh
 # Descrição:  Altera o nome da máquina
 # Página:     http://www.shellscriptx.blogspot.com.br
+# Fanpage:    https://www.facebook.com/shellscriptx
 # Github:     https://github.com/shellscriptx
 #-----------------------------------------------------
 
