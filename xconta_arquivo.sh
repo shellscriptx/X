@@ -6,6 +6,7 @@
 # Criado por:   Juliano Santos [SHAMAN]
 # Descrição: 	Conta o total de arquivos em um diretório por extensão.
 # Página:       http://www.shellscriptx.blogspot.com.br
+# Fanpage:      https://www.facebook.com/shellscriptx
 # Github:       https://github.com/shellscriptx
 # ----------------------------------------------------------------------
 
