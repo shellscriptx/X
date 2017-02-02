@@ -86,6 +86,7 @@ _O formato da mascára do CPF deverá respeitar o seguinte critério: **xxx.xxx.
 ## Bugs
 > Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
 ***
+
 ## 3. [xchostname.sh](https://github.com/shellscriptx/X/blob/master/xchostname.sh)
 
 ## Descrição
