@@ -6,6 +6,7 @@
 # Script:     xdescanso_tela.sh
 # Descrição:  Simulando descanso de tela para terminal.
 # Página:     http://www.shellscriptx.blogspot.com.br
+# Fanpage:    https://www.facebook.com/shellscriptx
 # Github:     https://github.com/shellscriptx
 #--------------------------------------------------------
 
