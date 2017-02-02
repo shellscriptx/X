@@ -1,37 +1,117 @@
 # [X] (http://www.shellscriptx.com.br)
 
-## [xsenha_complexa.sh](https://github.com/shellscriptx/X/blob/master/xsenha_complexa.sh)
-### Script que verifica os requisitos de complexidade de senha.
-![xcomplex](https://3.bp.blogspot.com/-khGZNFV-gXc/WD7UeP4lhwI/AAAAAAAAIDc/ajJD72Yel5AvfperJFCTesxTa3DvqLqUACLcB/s1600/xsenha_complexa.png)
+## 1. [xsenha_complexa.sh](https://github.com/shellscriptx/X/blob/master/xsenha_complexa.sh)
 
-## [xcpf.sh](https://github.com/shellscriptx/X/blob/master/xcpf.sh)
-### Script para validação do CPF.
-![xcpf.sh](https://4.bp.blogspot.com/-zGSq2chLeyA/WD7YLQM0KFI/AAAAAAAAIDo/rw-IUMU1yaoopGn97GJ4G6-VhoVbxXi4wCLcB/s1600/xcpf.png)
+## Descrição
+ 
+O xsenha_complexa.sh utiliza uma expressão regular em perl para testar o nível de uma senha na entrada padrão. Nenhuma máscara é aplicada para ocultar a senha, pois o procedimento constitui apenas em validá-la.
 
-## [xswapcase.sh](https://github.com/shellscriptx/X/blob/master/xswapcase.sh)
-### Script inverte a formatação em uma cadeia de caracteres.
-![xswapcase.sh](https://4.bp.blogspot.com/-IGOpbbYz5V0/WD7d24Re8_I/AAAAAAAAID8/50Ne3KxaSvcMiIf6R1CP5lm5HzyabbarwCLcB/s1600/xswapcase.png)
+A senha deverá atenter os seguintes critérios de complexidade:
 
-## [xconta_arquivo.sh](https://github.com/shellscriptx/X/blob/master/xconta_arquivo.sh)
-### Conta o total de arquivos por extensão.
-![xconta_arquivo.sh](https://4.bp.blogspot.com/-1WYOJc3xyKQ/WD8AY6PQAbI/AAAAAAAAIEc/c6sbRQuTIvImUani1oQBZwwWxcl9noihwCEw/s1600/xconta_arquivo.png)
+| Requerimentos mínimos|
+|---------------------------------|
+|8 caracteres|
+|1 caractere minúsculo|
+|1 caractere maiúsculo|
+|1 dígito de 0 à 9|
+|1 caractere especial|
 
-## [xchostname.sh](https://github.com/shellscriptx/X/blob/master/xchostname.sh)
-### Altera o hostname da máquina.
-![xchostname.sh](https://1.bp.blogspot.com/-4UTSmODFdJM/WD-VJ-5mjVI/AAAAAAAAIE4/eBHnbiymexU7FFuqyy2YJCC9tSGCb1q8wCLcB/s1600/xchostname.png)
+## Uso
 
-## [xgetethinfo.sh](https://github.com/shellscriptx/X/blob/master/xgetethinfo.sh)
-### Obtem informaçes da interface de rede.
-![xgetethinfo.sh](https://3.bp.blogspot.com/-qIhB3dZiId4/WD-a79g_gfI/AAAAAAAAIFI/VcyoVavcoLMtjcN7DQcZAB5AN8Zj-4GvACLcB/s1600/xgetethinfo.png)
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
 
-## [xupperfile.sh](https://github.com/shellscriptx/X/blob/master/xupperfile.sh)
-### Renomeia os arquivos, convertendo nomes para maiúsculo.
-![xupperfile.sh](https://1.bp.blogspot.com/-lyXGrcThdsI/WD-hnzrwasI/AAAAAAAAIFg/ZNcG6r9PmpAAWDe2k_x7g22SOfKW99uAQCLcB/s1600/xupperfile.png)
+```
+chmod +x xsenha_complexa.sh
+```
 
-## [xcolors.sh](https://github.com/shellscriptx/X/blob/master/xcolors.sh)
-### Imprime tabela contendo todas as cores e efeitos possíveis.
-![xcolors.sh](https://4.bp.blogspot.com/-V0PTan0-UI4/WEA9NVO7ftI/AAAAAAAAIF4/hKj3pyKGR00jTKo6TkBb77-Av2ArQZrdQCLcB/s1600/xcolors.png)
+Para verificar o nível de complexidade basta redirecionar a senha para entrada padrão do script.
 
-## [xrenumerar.sh](https://github.com/shellscriptx/X/blob/master/xcolors.sh)
-### Remove itens e renumera os itens restantes.
-![xrenumerar.sh](https://1.bp.blogspot.com/-Z_KE2ZbStow/WEWnprlkkVI/AAAAAAAAIIQ/Aye_wZdgZ-oOYRaVo7e5tPLzu65vzYgJACLcB/s1600/xrenumerar.png)
+##### Exemplo:
+
+```
+echo "senha" | ./xsenha_complexa.sh
+```
+_O script irá verificar os critérios de complexidades descritos na regex em perl e irá retornar uma mensagem de erro ou sucesso._
+
+**Código de retorno**
+
+Código|Descrição
+---------|-------------
+0| Sucesso
+1| Erro
+
+## Desenvolvido por
+> Juliano Santos [SHAMAN]
+
+## Bugs
+> Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
+
+---
+
+## 2. [xcpf.sh](https://github.com/shellscriptx/X/blob/master/xcpf.sh)
+
+## Descrição
+
+O script verifica se o número do CPF informado é veradeiro ou falso, aplicando uma matemática simples que utiliza os dois últimos dígitos como validador.
+
+**Código de retorno:**
+
+Código|Descrição
+---------|-------------
+0|CPF válido
+1|CPF inválido
+2|O formato do CPF é inválido
+
+## Uso
+
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+```
+chmod +x xcpf.sh
+```
+
+Envie o número do CPF para entrada padrão do script.
+
+**Exemplo:**
+
+Considere o número hipotético abaixo:
+
+```
+echo '143.389.234-53' | ./xcpf.sh
+```
+_O formato da mascára do CPF deverá respeitar o seguinte critério: **xxx.xxx.xxx-xx**_
+
+## Desenvolvido por
+> Juliano Santos [SHAMAN]
+
+## Bugs
+> Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
+***
+## 3. [xchostname.sh](https://github.com/shellscriptx/X/blob/master/xchostname.sh)
+
+## Descrição
+O script realiza alteração do nome da máquina sem requerer a reinicialização do sistema para que as alterações tenham efeito.
+
+**Arquivos alterados:**
+
+- [x] /etc/hostname
+- [x] /etc/hosts
+- [x] /proc/sys/kernel/hostname
+
+## Uso
+
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+```
+chmod +x xchostname.sh
+```
+
+Para alterar o nome da máquina basta executar o comando a seguir:
+```
+sudo ./xchostname.sh novo_nome
+```
+_É necessário executar o scritpt com privilégios administrativos._
+## Desenvolvido por
+> Juliano Santos [SHAMAN]
+
+## Bugs
+> Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
+***
