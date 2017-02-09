@@ -280,13 +280,105 @@ Exemplo: `./xcriar_atalho.sh aplicativo1 aplicativo2 aplicativo3...`
 > Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
 ***
 
+## 6. [xdescanso_tela.sh](https://github.com/shellscriptx/X/blob/master/xdescanso_tela.sh)
 
+## Descrição
 
+Simula uma proteção de tela para terminal, que move um determinado texto em posições geometricamente direcionadas. 
 
+## Instruções
 
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+```
+chmod +x xdescanso_tela.sh
+```
 
+#### Sintaxe:
 
+```
+./xdescanso_tela.sh [TEXTO] 
+```
 
+#### Exemplo:
 
+Definindo a palavra `SHELL SCRIPT X` como descanso de tela.
 
+```
+./xdescanso_tela.sh "SHELL SCRIPT X"
+```
+
+Acesse a postagem referente em nosso blog e visualize o vídeo demonstrativo [clicando aqui](http://shellscriptx.blogspot.com.br/2016/12/descanso-de-tela-para-terminal.html)
+
+## Desenvolvido por
+> Juliano Santos [SHAMAN]
+
+## Bugs
+> Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
+***
+
+## 7. [xfeliznatal.sh](https://github.com/shellscriptx/X/blob/master/xfeliznatal.sh)
+
+## Descrição
+
+Para não deixar a data `25 de dezembro` em branco, resolvi fazer uma homenagem ao estilo `SHELL SCRIPT X`. 
+
+O script exibe uma mensagem de boas festas simulando um letreiro digital.
+
+**Pacote requerido:**
+
+- [x] pv.1.6.0-1 ou superior
+
+## Instruções
+
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+```
+chmod +x xfeliznatal.sh
+```
+
+#### Sintaxe:
+
+```
+./xfeliznatal.sh
+```
+
+O script não requer argumentos.
+
+## Desenvolvido por
+> Juliano Santos [SHAMAN]
+
+## Bugs
+> Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
+***
+
+## 8. [xget_termwin_size.sh](https://github.com/shellscriptx/X/blob/master/xget_termwin_size.sh)
+
+## Descrição
+
+Cria uma trap que monitora o `SIGNAL WINCH` associado as alterações de dimensão do terminal atual. A função `ver_dimensao` lê os dados retornados na entrada padrão sempre que há alteração e imprime as dimensões no centro do terminal.
+
+## Instruções
+
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+```
+chmod +x xget_termwin_size.sh
+```
+
+#### Uso:
+
+```
+./xget_termwin_size.sh
+```
+
+**Observação:** O script não requer argumentos.
+
+#### Nota: 
+
+Após a execução redimensione a janela do terminal para visualizar as dimensões atuais.
+
+## Desenvolvido por
+> Juliano Santos [SHAMAN]
+
+## Bugs
+> Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
+***
 
