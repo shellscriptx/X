@@ -2,8 +2,21 @@
 
 # Sobre
 
-**A letra `X` possuí uma longa história de referências matemáticas, questões filosóficas entre outras; um caractere utilizado para preencher lacunas e representar a presença de algo. Por isso à escolhi para preceder o nome de cada script criado para resolver questões e problemas diários de uma forma simples e direta.**
+**A letra `X` possuí uma longa história de referências matemáticas, questões filosóficas entre outras; um caractere utilizado para preencher lacunas e representar a presença de algo. Por isso à escolhi para preceder o nome de cada script criado para resolver questões e problemas diários de uma forma simples ou até mesmo para diversão. :D**
 
+## Scripts
+
+
+> * <a href="#xsenha_complexa">xsenha_complexa.sh<a/>
+> * <a href="#xcpf.sh">xcpf<a/>
+> * <a href="#xchostname">xchostname.sh<a/>
+> * <a href="#xconta_arquivo">xconta_arquivo.sh<a/>
+> * <a href="#xcriar_atalho">xcriar_atalho.sh<a/>
+> * <a href="#xdescanso_tela">xdescanso_tela.sh<a/>
+> * <a href="#xfeliznatal">xfeliznatal.sh<a/>
+> * <a href="#xget_termwin_size">xget_termwin_size.sh<a/>
+
+<a name="xsenha_complexa"><a/> 
 ## 1. [xsenha_complexa.sh](https://github.com/shellscriptx/X/blob/master/xsenha_complexa.sh)
 
 ## Descrição
@@ -52,6 +65,7 @@ Código|Descrição
 
 ---
 
+<a name="xcpf"></a>
 ## 2. [xcpf.sh](https://github.com/shellscriptx/X/blob/master/xcpf.sh)
 
 ## Descrição
@@ -91,6 +105,7 @@ _O formato da mascára do CPF deverá respeitar o seguinte critério: **xxx.xxx.
 > Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
 ***
 
+<a name="xchostname"><a/>
 ## 3. [xchostname.sh](https://github.com/shellscriptx/X/blob/master/xchostname.sh)
 
 ## Descrição
@@ -123,6 +138,7 @@ _É necessário executar o scritpt com privilégios administrativos._
 > Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
 ***
 
+<a name="xconta_arquivo"><a/>
 ## 4. [xconta_arquivo.sh](https://github.com/shellscriptx/X/blob/master/xconta_arquivo.sh)
 
 ## Descrição
@@ -244,6 +260,7 @@ _É retornado uma lista de extensões seguido da sua quantidade e a quantidade t
 > Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
 ***
 
+<a name="xcriar_atalho"><a/>
 ## 5. [xcriar_atalho.sh](https://github.com/shellscriptx/X/blob/master/xcriar_atalho.sh)
 
 ## Descrição
@@ -284,6 +301,7 @@ Exemplo: `./xcriar_atalho.sh aplicativo1 aplicativo2 aplicativo3...`
 > Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
 ***
 
+<a name ="xdescanso_tela"><a/>
 ## 6. [xdescanso_tela.sh](https://github.com/shellscriptx/X/blob/master/xdescanso_tela.sh)
 
 ## Descrição
@@ -320,6 +338,7 @@ Acesse a postagem referente em nosso blog e visualize o vídeo demonstrativo [cl
 > Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
 ***
 
+<a name="xfeliznatal"><a/>
 ## 7. [xfeliznatal.sh](https://github.com/shellscriptx/X/blob/master/xfeliznatal.sh)
 
 ## Descrição
@@ -354,6 +373,7 @@ O script não requer argumentos.
 > Reporte possíveis erros enviando email para <shellscriptx@gmail.com>
 ***
 
+<a name="xget_termwin_size"><a/>
 ## 8. [xget_termwin_size.sh](https://github.com/shellscriptx/X/blob/master/xget_termwin_size.sh)
 
 ## Descrição
