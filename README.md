@@ -2,9 +2,7 @@
 
 # Sobre
 
-**
-A letra `X` possuí uma longa história de referências matemáticas, questões filosóficas entre outras; um caractere utilizado para preencher lacunas e representar a presença de algo. Por isso à escolhi para preceder os nomes de cada script criados para resolver questões e problemas diários de uma forma simples e direta.
-**
+**A letra `X` possuí uma longa história de referências matemáticas, questões filosóficas entre outras; um caractere utilizado para preencher lacunas e representar a presença de algo. Por isso à escolhi para preceder os nomes de cada script criados para resolver questões e problemas diários de uma forma simples e direta.**
 
 ## 1. [xsenha_complexa.sh](https://github.com/shellscriptx/X/blob/master/xsenha_complexa.sh)
 
