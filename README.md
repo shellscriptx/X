@@ -35,7 +35,7 @@ A senha deverá atenter os seguintes critérios de complexidade:
 
 ## Instruções
 
-Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão para execução:
 
 ```
 chmod +x xsenha_complexa.sh
@@ -82,7 +82,7 @@ Código|Descrição
 
 ## Instruções
 
-Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão para execução:
 ```
 chmod +x xcpf.sh
 ```
@@ -119,7 +119,7 @@ O script realiza alteração do nome da máquina sem requerer a reinicializaçã
 
 ## Instruções
 
-Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão para execução:
 ```
 chmod +x xchostname.sh
 ```
@@ -146,7 +146,7 @@ Lista a quantidade de arquivos do diretório informando, separando-os por extens
 
 ## Instruções
 
-Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão para execução:
 ```
 chmod +x xconta_arquivo.sh
 ```
@@ -268,7 +268,7 @@ Cria atalhos para aplicações na área de trabalho.
 
 ## Instruções
 
-Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão para execução:
 ```
 chmod +x xcriar_atalho.sh
 ```
@@ -310,7 +310,7 @@ Simula uma proteção de tela para terminal, que move um determinado texto em po
 
 ## Instruções
 
-Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão para execução:
 ```
 chmod +x xdescanso_tela.sh
 ```
@@ -353,7 +353,7 @@ O script exibe uma mensagem de boas festas simulando um letreiro digital.
 
 ## Instruções
 
-Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão para execução:
 ```
 chmod +x xfeliznatal.sh
 ```
@@ -382,7 +382,7 @@ Cria uma trap que monitora o `SIGNAL WINCH` associado as alterações de dimens�
 
 ## Instruções
 
-Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão de execução, executando o comando abaixo:
+Após a conclusão do download, vá até o diretório onde o script foi salvo e aplique a permissão para execução:
 ```
 chmod +x xget_termwin_size.sh
 ```
